@@ -1,0 +1,6 @@
+framework module testAgain {
+  umbrella header "testAgain-umbrella.h"
+
+  export *
+  module * { export * }
+}
